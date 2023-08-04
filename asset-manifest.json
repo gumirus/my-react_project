@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gumirus/my-react_project.git/static/css/main.073c9b0a.css",
+    "main.js": "/gumirus/my-react_project.git/static/js/main.f1c77343.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gumirus/my-react_project.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/gumirus/my-react_project.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gumirus/my-react_project.git/index.html",
+    "main.073c9b0a.css.map": "/gumirus/my-react_project.git/static/css/main.073c9b0a.css.map",
+    "main.f1c77343.js.map": "/gumirus/my-react_project.git/static/js/main.f1c77343.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gumirus/my-react_project.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1c77343.js"
+  ]
+}
